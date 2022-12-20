@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,700&family=Montserrat:wght@500;700&family=Outfit:wght@400;700&family=Teko:wght@400;500&display=swap');
+:root {
+    --tertiary: hsl(158, 36%, 37%);
+    --background: hsl(30, 38%, 92%);
+    --primary: hsl(212, 21%, 14%);
+    --secondary: hsl(228, 12%, 48%);
+    --White: hsl(0, 0%, 100%);
+    --body-copy: 14px;
+}
+
+body{
+    background-color: var(--background);
+    font-family: 'montserrat';
+    font-weight: 500;
+    font-size: var(--body-copy)}
+    
